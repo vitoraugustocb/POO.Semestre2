@@ -21,7 +21,7 @@ class Program {
 static void Main()
 {
         Pessoa pessoa1 = new Pessoa();        
-        pessoa1.Nome = "Marilia";
+        pessoa1.Nome = "Safira";
         pessoa1.Idade = 22;
         pessoa1.Sexo = "Feminino";
         pessoa1.Altura = 1.60;
